@@ -96,13 +96,6 @@ Medical-RAG/
 
 ---
 
-## 📊 Results & Metrics
-- ✅ Improved query retrieval speed by **X%** using optimized vector stores.
-- ✅ Achieved high accuracy in response generation with domain-specific tuning.
-- ✅ Reduced user research time by **Y%** through concise and context-aware answers.
-
----
-
 ## 🙏 Acknowledgments
 Special thanks to the open-source tools and frameworks that made this project possible:
 - **[LangChain](https://github.com/hwchase17/langchain)**
