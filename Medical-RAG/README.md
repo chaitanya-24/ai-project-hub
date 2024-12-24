@@ -21,8 +21,8 @@
 ## 🔧 Project Structure
 ```plaintext
 Medical-RAG/
-├── Data/                # Datasets and document corpus
-├── app.py              # Main application script (Flask/Streamlit)
+├── Data/               # Datasets and document corpus
+├── app.py              # Main application script 
 ├── .gitignore          # Files to ignore in version control
 ├── research/           # Experimental notebooks for RAG development
 │   ├── Trial.ipynb     # Initial experiments
