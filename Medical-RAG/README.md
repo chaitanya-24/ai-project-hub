@@ -5,6 +5,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-orange?logo=chainlink&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+[![Watch the video](https://img.youtube.com/vi/M-jtiz8eRJM/maxresdefault.jpg)](https://youtu.be/M-jtiz8eRJM)
+
+
 > **🌐 Revolutionizing information retrieval in the medical domain with a blend of state-of-the-art retrieval and generation techniques.**
 
 ## 🚀 Overview
@@ -105,6 +108,12 @@ Special thanks to the open-source tools and frameworks that made this project po
 - **[LangChain](https://github.com/hwchase17/langchain)**
 - **[Groq APIs](https://groq.com/)**
 - **[Flask](https://flask.palletsprojects.com/)**
+
+---
+
+🎥 [Watch the Demo!](https://youtu.be/M-jtiz8eRJM)
+
+
 
 ---
 
