@@ -1,5 +1,7 @@
 # Llama OCR - Text Extraction from Images 🦙
 
+[![Watch the video](https://img.youtube.com/vi/fFG8rYKWXpk/maxresdefault.jpg)](https://youtu.be/fFG8rYKWXpk)
+
 ## Project Overview
 Llama OCR is a sophisticated web application that leverages Llama 3.2 Vision AI to extract and structure text content from images. The application transforms complex image-based text into well-organized, readable Markdown format, making it ideal for document digitization and text extraction tasks.
 
