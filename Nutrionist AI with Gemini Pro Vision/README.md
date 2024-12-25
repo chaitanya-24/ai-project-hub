@@ -1,4 +1,5 @@
 # Nutritionist AI with Gemini Pro Vision 🍴
+[![Watch the video](https://img.youtube.com/vi/ge2XhRwtRq0/maxresdefault.jpg)](https://youtu.be/ge2XhRwtRq0)
 
 ## Project Overview
 Nutritionist AI is an intelligent web application that transforms the way people understand their food choices. By simply uploading a photo of their meal, users receive instant, detailed nutritional analysis powered by Google's advanced Gemini Pro Vision AI technology.
